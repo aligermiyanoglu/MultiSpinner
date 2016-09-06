@@ -49,7 +49,7 @@ public class MultiSpinner extends TextView implements OnMultiChoiceClickListener
     }
 
     public MultiSpinner(Context context, AttributeSet attr) {
-        this(context, attr, R.attr.spinnerStyle);
+        this(context, attr, R.attr.thmSpinnerStyle);
     }
 
     public MultiSpinner(Context context, AttributeSet attr, int defStyle) {

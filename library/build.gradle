@@ -3,10 +3,10 @@ apply plugin: 'android-maven'
 apply plugin: 'com.jfrog.bintray'
 apply from: '../gradle.properties'
 
-def siteUrl = 'https://github.com/thomashaertel/MultiSpinner'      // Homepage URL of the library
-def gitUrl = 'https://github.com/thomashaertel/MultiSpinner.git'   // Git repository URL
-def scmUrl = 'scm:git@github.com:thomashaertel/MultiSpinner.git'   // SCM repository URL
-def issueUrl = 'https://github.com/thomashaertel/MultiSpinner/issues' // Issue Tracker URL
+def siteUrl = 'https://github.com/aligermiyanoglu/MultiSpinner'      // Homepage URL of the library
+def gitUrl = 'https://github.com/aligermiyanoglu/MultiSpinner.git'   // Git repository URL
+def scmUrl = 'scm:git@github.com:aligermiyanoglu/MultiSpinner.git'   // SCM repository URL
+def issueUrl = 'https://github.com/aligermiyanoglu/MultiSpinner/issues' // Issue Tracker URL
 def libraryVersionCode = 2
 def libraryVersion = '0.1.1'
 
